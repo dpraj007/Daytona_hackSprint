@@ -24,7 +24,11 @@ Quick navigation for all integration guides used by MAMS. Each page includes env
 - CodeRabbit AI Code Review: `./CODERABBIT_SETUP.md`
   - References: `https://www.coderabbit.ai/`, `https://docs.coderabbit.ai/`
 
+### Marketplace & Seller APIs
+- Real Seller APIs for Behavior Mimicking: `./REAL_SELLER_APIS.md`
+  - References: `https://developer.ebay.com/`, `https://developers.etsy.com/`, Various e-commerce data providers
+
 ### Usage Order (recommended)
-1) Configure providers (Claude for agents and analysis) → 2) Enable observability (Galileo/Sentry) → 3) Add voice (ElevenLabs) → 4) Wire Daytona for code execution use‑cases → 5) Turn on CodeRabbit for PR reviews.
+1) Configure providers (Claude for agents and analysis) → 2) Enable observability (Galileo/Sentry) → 3) Add voice (ElevenLabs) → 4) Wire Daytona for code execution use‑cases → 5) Turn on CodeRabbit for PR reviews → 6) Integrate real seller APIs for enhanced behavior realism.
 
 
